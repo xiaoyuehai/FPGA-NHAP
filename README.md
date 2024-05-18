@@ -6,8 +6,6 @@
 
 > *The software, hardware and materials distributed under this license are provided in the hope that it will be useful on an **'as is' basis, without warranties or conditions of any kind, either expressed or implied; without even the implied warranty of merchantability or fitness for a particular purpose**. See the Solderpad Hardware License for more details.*
 
-> *You should have received a copy of the Solderpad Hardware License along with the ODIN HDL files (see [LICENSE](LICENSE) file). If not, see <https://solderpad.org/licenses/SHL-2.0/>.*
-
 FPGA-NHAP is general **FPGA-** based **n**euromorphic **h**ardware **a**cceleration **p**latform,  supporting the effective inference and acceleration of SNN network with low power, high speed and good scalability. The key features of our FPGA-NHAP are as follows.
 
 **(a)** a neuron computing unit is designed to simulate the both **LIF** and **Izhikevich (IZH)** neurons with the parallel spike caching and scheduling technique. 
